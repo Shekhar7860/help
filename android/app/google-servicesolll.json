@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659808515425",
+    "firebase_url": "https://corona-f78ab.firebaseio.com",
+    "project_id": "corona-f78ab",
+    "storage_bucket": "corona-f78ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659808515425:android:20bc8aff37371e2cad8120",
+        "android_client_info": {
+          "package_name": "com.covidInfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659808515425-0cpv6b4468vn2gram88ura0jn2jdr601.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNw_R2on5kYmzQYRVZnwqooTTgeoJOjP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659808515425-0cpv6b4468vn2gram88ura0jn2jdr601.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822397859237",
+    "firebase_url": "https://modicarequestions.firebaseio.com",
+    "project_id": "modicarequestions",
+    "storage_bucket": "modicarequestions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822397859237:android:df25e44de6870a8df3644c",
+        "android_client_info": {
+          "package_name": "com.modicarequestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822397859237-p7e21vk6e71dh7dgj4f6m33b1cv5i6ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmpXJN2omhnMg6WwWt4Kn78aoJ3MZqOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822397859237-p7e21vk6e71dh7dgj4f6m33b1cv5i6ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
